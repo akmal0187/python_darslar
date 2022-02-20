@@ -1,1 +1,1 @@
-# python_darslar
+Bu yerda python oid darslar
